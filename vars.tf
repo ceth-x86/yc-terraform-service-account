@@ -1,7 +1,7 @@
 variable "folder_id" {
   type        = string
 
-  description = "Folder IDto crate service account."
+  description = "Folder ID to create service account."
 }
 
 variable "name" {
